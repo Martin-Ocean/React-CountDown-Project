@@ -39,8 +39,10 @@ React.js
   
 
 ## Demo
-![alt text](https://github.com/Martin-Ocean/React-Project-Mortgage-Calculator/blob/master/png/demo.jpeg)
-![alt text](https://github.com/Martin-Ocean/React-Project-Mortgage-Calculator/blob/master/png/demo2.jpeg)
+Time of this test was Nov 28, 2017 22:46:00
+![alt text](https://github.com/Martin-Ocean/React-Project-CountDown/blob/master/demo/demo1.jpeg)
+When it is time for New Year !!!!
+![alt text](https://github.com/Martin-Ocean/React-Project-CountDown/blob/master/demo/demo2.jpeg)
 
 
 
