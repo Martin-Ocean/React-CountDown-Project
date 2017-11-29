@@ -12,5 +12,18 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "React Project Count Down Timer",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martin-Ocean/React-CountDown-Project.git"
+  },
+  "author": "M G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Martin-Ocean/React-CountDown-Project/issues"
+  },
+  "homepage": "https://github.com/Martin-Ocean/React-CountDown-Project#readme"
 }

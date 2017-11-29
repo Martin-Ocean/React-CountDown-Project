@@ -16,7 +16,7 @@ var clock = () => {
 		var minutes = Math.floor(((distance % day) % hour)/minute);
 		var seconds = Math.floor((((distance % day) % hour) % minute) / second);
 		if (distance < 0) {
-			return 'EXPIRED';
+			return "Happ New Year";
 		}
 		return `${days} days ${hours} hours ${minutes} minutes ${seconds} seconds`;
 	}
