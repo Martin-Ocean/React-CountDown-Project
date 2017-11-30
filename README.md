@@ -1,4 +1,4 @@
-# React Project 2
+# React Project 4
 # Count Down Timer
 
 This project is a practice project from Udemy Course [React for absolute beginner](https://www.udemy.com/react-for-absolute-beginners/learn/v4/overview)
@@ -39,11 +39,7 @@ React.js
   
 
 ## Demo
-Time of this test was Nov 28, 2017 22:46:00
-![alt text](https://github.com/Martin-Ocean/React-Project-CountDown/blob/master/demo/demo1.jpeg)
-When it is time for New Year !!!!
-![alt text](https://github.com/Martin-Ocean/React-Project-CountDown/blob/master/demo/demo2.jpeg)
-
+![alt text](https://github.com/Martin-Ocean/React-Project-Static-Tweet-Component/blob/master/demo/demo.jpeg)
 
 
 ## Authors
